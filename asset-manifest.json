@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Yuntafa-Ulkhaq/my-porto/static/css/main.d590cf8b.css",
+    "main.js": "/Yuntafa-Ulkhaq/my-porto/static/js/main.a85b41d0.js",
+    "static/js/453.cac90ec7.chunk.js": "/Yuntafa-Ulkhaq/my-porto/static/js/453.cac90ec7.chunk.js",
+    "static/media/carakaroastery.png": "/Yuntafa-Ulkhaq/my-porto/static/media/carakaroastery.2002d54c411ec109eb46.png",
+    "static/media/bg-light.png": "/Yuntafa-Ulkhaq/my-porto/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/Yuntafa-Ulkhaq/my-porto/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/sspostman.png": "/Yuntafa-Ulkhaq/my-porto/static/media/sspostman.e6ae19dbc1a1ea6d66af.png",
+    "static/media/pp.jpg": "/Yuntafa-Ulkhaq/my-porto/static/media/pp.38071e34e18aa9c73ece.jpg",
+    "index.html": "/Yuntafa-Ulkhaq/my-porto/index.html",
+    "main.d590cf8b.css.map": "/Yuntafa-Ulkhaq/my-porto/static/css/main.d590cf8b.css.map",
+    "main.a85b41d0.js.map": "/Yuntafa-Ulkhaq/my-porto/static/js/main.a85b41d0.js.map",
+    "453.cac90ec7.chunk.js.map": "/Yuntafa-Ulkhaq/my-porto/static/js/453.cac90ec7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d590cf8b.css",
+    "static/js/main.a85b41d0.js"
+  ]
+}
