@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Yuntafa-Ulkhaq/my-porto/static/css/main.d590cf8b.css",
-    "main.js": "/Yuntafa-Ulkhaq/my-porto/static/js/main.a85b41d0.js",
-    "static/js/453.cac90ec7.chunk.js": "/Yuntafa-Ulkhaq/my-porto/static/js/453.cac90ec7.chunk.js",
-    "static/media/carakaroastery.png": "/Yuntafa-Ulkhaq/my-porto/static/media/carakaroastery.2002d54c411ec109eb46.png",
-    "static/media/bg-light.png": "/Yuntafa-Ulkhaq/my-porto/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/Yuntafa-Ulkhaq/my-porto/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/sspostman.png": "/Yuntafa-Ulkhaq/my-porto/static/media/sspostman.e6ae19dbc1a1ea6d66af.png",
-    "static/media/pp.jpg": "/Yuntafa-Ulkhaq/my-porto/static/media/pp.38071e34e18aa9c73ece.jpg",
-    "index.html": "/Yuntafa-Ulkhaq/my-porto/index.html",
-    "main.d590cf8b.css.map": "/Yuntafa-Ulkhaq/my-porto/static/css/main.d590cf8b.css.map",
-    "main.a85b41d0.js.map": "/Yuntafa-Ulkhaq/my-porto/static/js/main.a85b41d0.js.map",
-    "453.cac90ec7.chunk.js.map": "/Yuntafa-Ulkhaq/my-porto/static/js/453.cac90ec7.chunk.js.map"
+    "main.css": "/my-porto/static/css/main.36174b1a.css",
+    "main.js": "/my-porto/static/js/main.4874c150.js",
+    "static/js/453.732484cf.chunk.js": "/my-porto/static/js/453.732484cf.chunk.js",
+    "static/media/carakaroastery.png": "/my-porto/static/media/carakaroastery.2002d54c411ec109eb46.png",
+    "static/media/bg-light.png": "/my-porto/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/my-porto/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/sspostman.png": "/my-porto/static/media/sspostman.e6ae19dbc1a1ea6d66af.png",
+    "static/media/pp.jpg": "/my-porto/static/media/pp.38071e34e18aa9c73ece.jpg",
+    "index.html": "/my-porto/index.html",
+    "main.36174b1a.css.map": "/my-porto/static/css/main.36174b1a.css.map",
+    "main.4874c150.js.map": "/my-porto/static/js/main.4874c150.js.map",
+    "453.732484cf.chunk.js.map": "/my-porto/static/js/453.732484cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d590cf8b.css",
-    "static/js/main.a85b41d0.js"
+    "static/css/main.36174b1a.css",
+    "static/js/main.4874c150.js"
   ]
 }
